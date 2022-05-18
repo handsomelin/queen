@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Queen\Queen\bin\Debug\Queen.exe.config
+C:\Users\user\source\repos\Queen\Queen\bin\Debug\Queen.exe
+C:\Users\user\source\repos\Queen\Queen\bin\Debug\Queen.pdb
+C:\Users\user\source\repos\Queen\Queen\obj\Debug\Queen.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Queen\Queen\obj\Debug\Queen.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Queen\Queen\obj\Debug\Queen.exe
+C:\Users\user\source\repos\Queen\Queen\obj\Debug\Queen.pdb
